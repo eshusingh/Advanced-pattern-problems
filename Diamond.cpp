@@ -27,3 +27,4 @@ int main()
     }
     return 0;
 }
+//divide the problem in 4 parts
